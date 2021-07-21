@@ -16,7 +16,7 @@
 
 将资产整理后放入url.txt,命令行输入java -jar EZOfficeGetShell.jar
 
-![01](\image\01.png)
+![01](/image/01.png)
 
 脚本内置Behinder3.0 WebShell,使用Behinder3.0测试连接
 
